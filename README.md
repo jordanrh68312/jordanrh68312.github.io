@@ -15,6 +15,8 @@ This repo should act as a **Table of Contents** of sorts for my github repositor
 jordanrh68312.github.io
 - [ ] Create a video Hero GIF
 - [ ] Utilize CSS HTML & JS
+- [ ] Add resume relevant pages
+https://www.ti.com/tool/EZ430-F2013
 
 Losing2Stockfish
 - [x] Learn UCI
