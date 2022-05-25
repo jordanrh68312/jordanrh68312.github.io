@@ -33,3 +33,13 @@ AWS Development
 - [ ] Investigate publishing
 
 Thank you for visiting.
+
+Android Development?
+https://developer.android.com/studio#downloads
+
+ez430x & MSP430
+https://slideplayer.com/slide/3288479/
+http://ece124web.groups.et.byu.net/
+https://www.ti.com/tool/EZ430-F2013
+https://www.ti.com/lit/ug/slau278ah/slau278ah.pdf?ts=1652986355101&ref_url=https%253A%252F%252Fwww.ti.com%252Ftool%252FMSP-FET
+https://www.amazon.com/MSP430-Microcontroller-Basics-John-Davies/dp/0750682760/ref=sr_1_1?ie=UTF8&s=books&qid=1243976162&sr=1-1
