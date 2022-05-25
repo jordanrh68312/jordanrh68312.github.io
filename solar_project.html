@@ -19,7 +19,6 @@ body, html {
 /* First image (Logo. Full height) */
 .bgimg-1 {
   background-image: url('/images/QCopter.gif');
-  min-height: 100%;
 }
 
 /* Second image (Portfolio) */
@@ -31,19 +30,17 @@ body, html {
 /* Third image (Contact) */
 .bgimg-3 {
   background-image: url("/images/QuadCopterPurchaseOrder.jpg");
-  min-height: 400px;
 }
 
 .w3-wide {letter-spacing: 10px;}
 .w3-hover-opacity {cursor: pointer;}
 
-/* Turn off parallax scrolling for tablets and phones */
-@media only screen and (max-device-width: 1600px) {
-  .bgimg-1, .bgimg-2, .bgimg-3 {
-    background-attachment: scroll;
-    min-height: 400px;
-  }
+/* Turn off parallax scrolling*/
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  background-attachment: scroll;
+  min-height: 400px;
 }
+
 </style>
 </head>
 <body>
@@ -54,7 +51,7 @@ body, html {
     <a class="w3-bar-item w3-button w3-hover-black w3-hide-medium w3-hide-large w3-right" href="javascript:void(0);" onclick="toggleFunction()" title="Toggle Navigation Menu">
       <i class="fa fa-bars"></i>
     </a>
-    <a href="#home" class="w3-bar-item w3-button">HOME</a>
+    <a href="https://jordanrh68312.github.io/#home" class="w3-bar-item w3-button">HOME</a>
     <a href="#" class="w3-bar-item w3-button w3-hide-small w3-right w3-hover-red">
       <i class="fa fa-search"></i>
     </a>
@@ -67,7 +64,7 @@ body, html {
 </div>
 
 <!-- First Parallax Image with Logo Text -->
-<div class="bgimg-1 w3-display-container w3-opacity-min" id="home">
+<div class="bgimg-1 w3-display-container w3-opacity-min" id="project_image">
   <div class="w3-display-middle" style="white-space:nowrap;">
     <span class="w3-center w3-padding-large w3-black w3-xlarge w3-wide w3-animate-opacity">Welcome to <span class="w3-hide-small"> jordanrh68312</span>
   </div>
@@ -192,8 +189,6 @@ function toggleFunction() {
         x.className = x.className.replace(" w3-show", "");
     }
 }
-
-
 
 </script>
 
