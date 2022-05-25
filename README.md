@@ -6,7 +6,7 @@ This repo should act as a **Table of Contents** of sorts for my github repositor
 ## Table of Contents
 |Subject| Repo| Notes|
 |---|---|---|
-|Make a pleasent website | jordanrh68312.github.io|
+|Make a pleasent website | [jordanrh68312.github.io](https://jordanrh68312.github.io/)|
 |Exploring Computational Chess | Losing2Stockfish|
 |Calculator App Development | TBD| - First Application Creation
 |Mortgage App Development | TBD| - Create a more dynamic mortgage rate count down app.
